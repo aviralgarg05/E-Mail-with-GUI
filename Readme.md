@@ -1,7 +1,5 @@
 # <b>Email GUI</b>
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-
 ## Email GUI Functionalities : 🚀
 
 - **To send email the less security option of sender's email must be turned on.**
